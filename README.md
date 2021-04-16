@@ -8,6 +8,8 @@ Visit [anoved.github.io/OpenWithJustTheRecipe](https://anoved.github.io/OpenWith
 
 ## Usage
 
+![Sample screenshot](jtr-screenshot.jpg)
+
 Go to a recipe web page. Click the **Open with Just The Recipe** bookmarklet to reload the page with [Just The Recipe](https://www.justtherecipe.app/).
 
 ## License
