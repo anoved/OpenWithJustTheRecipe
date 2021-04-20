@@ -1,6 +1,6 @@
 # Open with Just The Recipe
 
-Reformat recipe web pages with [Just The Recipe](https://www.justtherecipe.app/).
+Reformat recipe web pages with [Just The Recipe](https://www.justtherecipe.app/). Not affiliated with the **Just The Recipe** site.
 
 ## Installation
 
